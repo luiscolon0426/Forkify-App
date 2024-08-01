@@ -33,3 +33,5 @@ This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses
 [Click Here to see demo](https://nids-forkify-app.netlify.app/)
 
 ## Acknowledgments
+
+This was a learning project, made by my own, but other developer idea.
