@@ -1,5 +1,9 @@
 ## Forkify Recipe App 🍕
 
+## Demo
+
+[Click Here to see demo](https://nids-forkify-app.netlify.app/)
+
 Forkify App is an functional application made with vanilla JavaScript. It interacts with the Forkify API to fetch and display recipes.  
 The user can search for a specific recipe, and save to a favorites list via local storage.  
 The user can easily increase or decrease servings as per his need and can view detailed directions.
@@ -28,9 +32,7 @@ This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses
 - [Webpack](https://webpack.js.org/)
 - [NPM](https://www.npmjs.com/)
 
-## Demo
 
-[Click Here to see demo](https://nids-forkify-app.netlify.app/)
 
 ## Acknowledgments
 
