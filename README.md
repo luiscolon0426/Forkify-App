@@ -36,4 +36,4 @@ This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses
 
 ## Acknowledgments
 
-This was a learning project, made by my own, but other developer idea.
+This was a learning project i made, NOT my own, but other developers idea.
